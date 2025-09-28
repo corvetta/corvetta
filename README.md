@@ -1,5 +1,4 @@
-<h1>Hi, I'm Corvetta! <br/><a href="https://github.com/corvetta">Cloud Architecture</a>, <a href="https://www.linkedin.com/in/corvetta/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@corvetta.">YouTube</a></h1>
-
+<h1>Hi, I'm Corvetta! <br/><a href="https://github.com/corvetta"></a>, <a href="https://www.linkedin.com/in/corvetta/">Cybersecurity Professional</a>, 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
