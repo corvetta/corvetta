@@ -1,4 +1,4 @@
-<h1>Hi, I'm Corvetta! <br/><a href="https://github.com/corvetta">IT Professional</a>, <a href="https://www.linkedin.com/in/corvetta/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@corvetta.">YouTube</a></h1>
+<h1>Hi, I'm Corvetta! <br/><a href="https://github.com/corvetta">Cloud Architecture</a>, <a href="https://www.linkedin.com/in/corvetta/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@corvetta.">YouTube</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
