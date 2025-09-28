@@ -5,6 +5,8 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  
+<h2>👨‍💻 Medium Articles:</h2>
+ 
 <h2>👨‍💻 Certifications:</h2>
 
 <h2>📺 Popular YouTube Videos</h2>
