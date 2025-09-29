@@ -1,4 +1,4 @@
-<h1>Hi, I'm Corvetta! <br/><a href="https://github.com/corvetta"></a> <a href="https://www.linkedin.com/in/corvetta/">Cybersecurity Professional</a>
+<h1>Hi, I'm Corvetta! <br/><a href="https://github.com/corvetta"></a> <a href="https://www.linkedin.com/in/corvetta/">Cybersecurity & Cloud Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -7,6 +7,10 @@
 <h2>👨‍💻 Medium Articles:</h2>
  
 <h2>👨‍💻 Certifications:</h2>
+
+- <a href="https://www.credly.com/badges/ed26f288-4bcc-4e52-b5d7-400f27b99d4d/linked_in_profile" target="_blank">Credly Badge 1</a><br>
+- <a href="https://www.credly.com/badges/83f835d7-099a-4ca1-9b8f-86197b4d7fe5/linked_in_profile" target="_blank">Credly Badge 2</a>
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
