@@ -7,12 +7,22 @@
 <h2>👨‍💻 Medium Articles:</h2>
  
 <h2>👨‍💻 Certifications:</h2>
+<ul>
+  <li>
+    <a href="https://www.credly.com/badges/ed26f288-4bcc-4e52-b5d7-400f27b99d4d/linked_in_profile" target="_blank">
+      AWS Certified Solutions Architect – Associate
+    </a>
+  </li>
+  <li>
+    <a href="https://www.credly.com/badges/83f835d7-099a-4ca1-9b8f-86197b4d7fe5/linked_in_profile" target="_blank">
+      Project Management Professional (PMP)®
+    </a>
+  </li>
+</ul>
 
-- <a href="https://www.credly.com/badges/ed26f288-4bcc-4e52-b5d7-400f27b99d4d/linked_in_profile" target="_blank">Credly Badge 1</a><br>
-- <a href="https://www.credly.com/badges/83f835d7-099a-4ca1-9b8f-86197b4d7fe5/linked_in_profile" target="_blank">Credly Badge 2</a>
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
